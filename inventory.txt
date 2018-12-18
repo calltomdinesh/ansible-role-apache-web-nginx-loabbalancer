@@ -1,0 +1,5 @@
+target1 ansible_host=172.31.18.142 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/ansible.pem
+
+13.233.108.189 ansible_user=ec2-user ansible_ssh_private_key_file=~/ansible.pem
+
+
